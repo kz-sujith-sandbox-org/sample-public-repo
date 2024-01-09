@@ -11,6 +11,11 @@ f = open("crazy.txt", "w")
 
 f.write(b"sdsdsdsdsds")
 
+def foo():
+  pass
+
+foo(omg)
+
 exit(1)
 
 print("What the hell is in this script???")
