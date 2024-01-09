@@ -1,4 +1,5 @@
 import os
+import unknown_module
 
 super_secret = "eyksdf00(xksdklskjjj"
 os.system(f"")
